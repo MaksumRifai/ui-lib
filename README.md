@@ -49,7 +49,7 @@ It is optimized for building complex, data-dense web interfaces for desktop appl
 ---
 
 ## PRIMEREACT
-<img src="https://www.primefaces.org/primereact/resources/images/primereact-logo.svg" height="100">
+<img src="https://primefaces.org/primereact/showcase/showcase/images/primereact-logo-dark.png" height="100">
 
 PrimeReact is a rich set of open source UI Components for React. See PrimeReact homepage for live showcase and documentation.
 
@@ -195,9 +195,9 @@ With BootstrapVue you can build responsive, mobile-first, and ARIA accessible pr
 ---
 
 ## PRIMEVUE
-<img src="https://www.primefaces.org/primevue/resources/images/primevue-logo.svg" height="100">
+<img src="https://primefaces.org/primevue/showcase/img/primevue-logo.2954558d.png" height="100">
 
-PrimeReact is a rich set of open source UI Components for Vue. See PrimeReact homepage for live showcase and documentation.
+PrimeVue is a rich set of open source UI Components for Vue. See PrimeVue homepage for live showcase and documentation.
 
 [Github](https://github.com/primefaces/primevue) | [Website](https://primefaces.org/primevue/showcase/#/)
 
