@@ -49,7 +49,7 @@ It is optimized for building complex, data-dense web interfaces for desktop appl
 ---
 
 ## PRIMEREACT
-<img src="https://primefaces.org/primereact/showcase/showcase/images/home/pro.png" height="100">
+<img src="https://www.primefaces.org/primereact/resources/images/primereact-logo.svg" height="100">
 
 PrimeReact is a rich set of open source UI Components for React. See PrimeReact homepage for live showcase and documentation.
 
@@ -85,7 +85,7 @@ Semantic UI React is a React UI library with over 50 responsive components desig
 ---
 
 ## React Toolbox
-<img src="https://camo.githubusercontent.com/18ee184f65c3127d4023e300d79232c7c0b9ef75c44cae372e52c7642633e0e0/687474703a2f2f692e696d6775722e636f6d2f564353456c51582e706e67" height="100">
+<img src="https://camo.githubusercontent.com/18ee184f65c3127d4023e300d79232c7c0b9ef75c44cae372e52c7642633e0e0/687474703a2f2f692e696d6775722e636f6d2f564353456c51582e706e67" height="80">
 
 React Toolbox is a set of React components that implements Google Material Design specification. It's built on top of some the trendiest proposals like CSS Modules (written in SASS), Webpack and ES6.
 
@@ -168,7 +168,7 @@ Vuetify is a Vue UI Library with beautifully handcrafted Material Components. No
 ---
 
 ## Buefy
-<img src="https://buefy.org/static/img/buefy.1d65c18.png" height="100">
+<img src="https://buefy.org/static/img/buefy.1d65c18.png" height="80">
 
 Buefy is a lightweight library of responsive UI components for Vue.js based on Bulma framework and design.
 
@@ -191,6 +191,15 @@ Build high-performance VueJS user interfaces in record time: responsive Single P
 With BootstrapVue you can build responsive, mobile-first, and ARIA accessible projects on the web using Vue.js and the world's most popular front-end CSS library — Bootstrap v4.
 
 [Github](https://github.com/bootstrap-vue/bootstrap-vue) | [Website](https://bootstrap-vue.org/)
+
+---
+
+## PRIMEVUE
+<img src="https://www.primefaces.org/primevue/resources/images/primevue-logo.svg" height="100">
+
+PrimeReact is a rich set of open source UI Components for Vue. See PrimeReact homepage for live showcase and documentation.
+
+[Github](https://github.com/primefaces/primevue) | [Website](https://primefaces.org/primevue/showcase/#/)
 
 ---
 
