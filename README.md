@@ -2,8 +2,10 @@
 UI Libraries For React, Vue And Angular
 
 ## Material UI
-<img src="https://material-ui.com/static/logo_raw.svg" width="200">
+<img src="https://material-ui.com/static/logo_raw.svg" align="center" width="200">
+
 Quickly build beautiful React apps. Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design.
+
 [Github](https://github.com/mui-org/material-ui) [Website](https://material-ui.com/)
 
 ##
