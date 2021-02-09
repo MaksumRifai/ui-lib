@@ -1,4 +1,4 @@
-# UI Libraries for React, Vue and Angular
+# UI Libraries for [React](#ui-for-react), [Vue](#ui-for-vue) and [Angular](#ui-for-angular)
 
 ---
 
