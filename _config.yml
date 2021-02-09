@@ -13,6 +13,26 @@ aux_links:
   "UI Lib on GitHub":
     - "https://github.com/MaksumRifai/ui-lib"
 
+collections:
+  react:
+    permalink: "/react/index.md/"
+    output: true
+  vue:
+    permalink: "/vue/index.md/"
+    output: true
+  angular:
+    permalink: "/angular/index.md/"
+    output: true
+
+just_the_docs:
+  collections:
+    react:
+      name: React
+    vue:
+      name: Vue
+    angular:
+      name: Angular
+
 # Back to top link
 back_to_top: true
 back_to_top_text: "Back to top"
