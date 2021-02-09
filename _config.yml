@@ -1,18 +1,5 @@
 remote_theme: pmarsceill/just-the-docs
 
-title: UI Libraries
-description: React, Vue and Angular UI Libraries
-baseurl: "/ui-lib" # the subpath of your site, e.g. /blog
-url: "https://maksumrifai.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Enable or disable heading anchors
-heading_anchors: true
-
-# Aux links for the upper right navigation
-aux_links:
-  "UI Lib on GitHub":
-    - "https://github.com/MaksumRifai/ui-lib"
-
 collections:
   react:
     permalink: "/react/index.md/"
