@@ -16,8 +16,7 @@ Quickly build beautiful React apps. Material-UI is a simple and customizable com
 ## React Bootstrap
 <img src="https://www.rezourze.com/rz-storage/2020/09/React-Bootstrap-react-bootstrap-navbar.jpg" height="100">
 
-The most popular front-end framework
-Rebuilt for React.
+The most popular front-end framewor, Rebuilt for React.
 
 [Github](https://github.com/react-bootstrap/react-bootstrap) | [Website](https://react-bootstrap.github.io/)
 
@@ -325,4 +324,4 @@ Ionic Framework is an open source UI toolkit for building performant, high-quali
 
 ---
 
-[Edit](https://github.com/MaksumRifai/ui-lib/main/README.md/edit) this lists, If you want to add another resources.
+[Edit](https://github.com/MaksumRifai/ui-lib/edit/main/README.md) this lists, If you want to add another resources.
