@@ -323,5 +323,6 @@ Ionic Framework is an open source UI toolkit for building performant, high-quali
 [Github](https://github.com/ionic-team/ionic-docs) | [Website](https://ionicframework.com/docs)
 
 ---
+All images and descriptions above was copied from theirs officials github or websites or another sources.
 
-[Edit](https://github.com/MaksumRifai/ui-lib/edit/main/README.md) this lists, If you want to add another resources.
+[Edit](https://github.com/MaksumRifai/ui-lib/edit/main/README.md) this lists, If you want to make correction or add other libraries or resource
